@@ -1,0 +1,3 @@
+#!/bin/bash
+
+sudo mkdir /root/soumya_`date +%H:%M:%S`
